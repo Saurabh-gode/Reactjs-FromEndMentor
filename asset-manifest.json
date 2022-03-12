@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Reactjs-FromEndMentor/static/css/main.48ea3266.css",
+    "main.js": "/Reactjs-FromEndMentor/static/js/main.d679bc42.js",
+    "index.html": "/Reactjs-FromEndMentor/index.html",
+    "main.48ea3266.css.map": "/Reactjs-FromEndMentor/static/css/main.48ea3266.css.map",
+    "main.d679bc42.js.map": "/Reactjs-FromEndMentor/static/js/main.d679bc42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48ea3266.css",
+    "static/js/main.d679bc42.js"
+  ]
+}
