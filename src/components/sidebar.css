@@ -1,0 +1,29 @@
+.sidenav{
+    width: 55%;
+    display: none;
+    box-shadow: 0 0 3px var(--black);
+}
+.sidenav img{
+    margin: 2rem;
+}
+.sidenav ul{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sidenav ul li{
+    margin: 0.5rem 0 ;
+}
+.sidenav ul li a{
+    text-decoration: none;
+    color: var(--black);
+    font-family: var(--ff-kumbh);
+    font-weight: 700;
+}
+
+@media (max-width:650px) {
+    .sidenav{
+        display: contents;
+    }
+}
